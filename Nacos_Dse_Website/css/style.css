@@ -1,0 +1,16 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+    background-color: bisque;
+    color: blue;
+    max-width: 1000;
+    margin: auto;
+    padding: 50px;
+    line-height: 0.9;
+
+}
+
+h1 {
+    color: aquamarine;
+
+}
+
